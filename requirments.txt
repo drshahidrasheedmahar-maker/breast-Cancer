@@ -5,3 +5,5 @@ matplotlib
 opencv-python
 scikit-image
 openpyxl
+seaborn
+tqdm
