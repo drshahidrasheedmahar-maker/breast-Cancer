@@ -1,4 +1,13 @@
-data/**
-results/**
+# Python cache
+__pycache__/
+*.py[cod]
 
-__pycache__
+# Ignore everything inside data/
+data/*
+!data/.gitkeep
+
+
+# Ignore everything inside results/
+results/*
+!results/.gitkeep
+
