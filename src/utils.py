@@ -1,6 +1,6 @@
-
 import cv2
 import numpy as np
+
 
 def fun_remove_bg(image):
     # Create a mask by thresholding (background is dark)
